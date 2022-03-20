@@ -41,6 +41,14 @@ Please kindly cite this paper in your publications if it helps your research:
   year={2022},
   publisher={Springer}
 }
+@inproceedings{shao2020open,
+  title={Open-set adversarial defense},
+  author={Shao, Rui and Perera, Pramuditha and Yuen, Pong C and Patel, Vishal M},
+  booktitle={European Conference on Computer Vision},
+  pages={682--698},
+  year={2020},
+  organization={Springer}
+}
 ```
 
 Contact: rshaojimmy@gmail.com
